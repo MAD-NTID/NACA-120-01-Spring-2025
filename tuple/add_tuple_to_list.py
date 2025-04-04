@@ -11,7 +11,6 @@ print(f"List Before: {list}")
 temp_tuple = list[0]
 
 list[0] = list[1]
-
 list[1] = temp_tuple
 
 print(f" List After: {list}")
