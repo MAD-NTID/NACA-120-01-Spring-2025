@@ -2,7 +2,7 @@
 import example
 
 def test_sum_2_5_is_7():
-    # setup
+    # setup 
     num1 = 2
     num2 = 5
     expected_result = 7
